@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/dc_100px.png</file>
+        <file>images/ufc_90px.png</file>
+        <file>images/warning.png</file>
+        <file>images/esq.png</file>
+        <file>images/dir.png</file>
+        <file>images/esqNovo.png</file>
+        <file>images/dirNovo.png</file>
+    </qresource>
+</RCC>
